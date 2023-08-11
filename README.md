@@ -2,16 +2,16 @@
 
 Grupo 6 : 
 
-Mercado, Isaac Pablo Rubén
-Melisa Marlen Benitez
-Juan Jose Juarez
-Ariel Solis
-Andrea Mellinger
-Juan Carlos Olmedo
-Melani Rodríguez
-Mauro Federico Rascón
-Miguel Adrian Holzer Egea
-Gastón Darío Pérez Parra
+- Mercado, Isaac Pablo Rubén
+- Melisa Marlen Benitez
+- Juan Jose Juarez
+- Ariel Solis
+- Andrea Mellinger
+- Juan Carlos Olmedo
+- Melani Rodríguez
+- Mauro Federico Rascón
+- Miguel Adrian Holzer Egea
+- Gastón Darío Pérez Parra
 
 
 # Proyecto de Clima - Instrucciones
